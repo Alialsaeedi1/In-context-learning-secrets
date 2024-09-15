@@ -22,5 +22,10 @@ Relevant papers:
 
 10. [Rethinking the Role of Demonstrations: What Makes In-Context Learning Work?](http://arxiv.org/abs/2202.12837)
 
+11. [The Developmental Landscape of In-Context Learning](https://arxiv.org/abs/2402.02364)
 
+12. [IN-CONTEXT LANGUAGE LEARNING:ARCHITECTURES AND ALGORITHMS](https://arxiv.org/pdf/2401.12973)
 
+13. [https://arxiv.org/abs/2402.11004](The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains)
+
+14. [https://www.lesswrong.com/posts/j6s9H9SHrEhEfuJnq/causal-scrubbing-results-on-induction-heads](Causal scrubbing: results on induction heads)
